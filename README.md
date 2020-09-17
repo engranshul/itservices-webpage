@@ -28,6 +28,7 @@ html:
 * Id is generally used when something is unique and you want to target 
   that element uniquely.
 
+## Screenshot of project
 
 ![Screenshot](screenshot.png)  
 
